@@ -2,7 +2,7 @@
 
 A web-based OCR (Optical Character Recognition) application built with Laravel, Inertia.js, Vue.js, and Shadcn UI. This application allows users to extract text from images using Tesseract OCR engine.
 
-![Uploading app-screenshot.png…]()
+![app-screenshot](https://github.com/user-attachments/assets/3b2c5f1f-d993-46ee-9b4b-6ce2b109255c)
 
 ## 🚀 Features
 
